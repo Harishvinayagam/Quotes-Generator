@@ -28,17 +28,22 @@ cd Fetch-GitHub-Repositories
 
 3.Open the index.html file in your web browser.
 
-Usage
+## Usage
+
 1.Open index.html in your web browser.
 2.Click the "Generate" button to display a random quote and change the background color.
 
-Built With
+## Built With
+
 1.Bootstrap 5 - The CSS framework used for responsive design.
+
 2.HTML - Markup language for creating the structure of the web page.
+
 3.CSS - Stylesheet language for styling the web page.
+
 4.JavaScript - Programming language for adding interactivity to the web page.
 
-Contributing
+## Contributing
 If you want to contribute to this project, please fork the repository and create a pull request with your changes.
 
 1.Fork the project repository.
@@ -47,12 +52,13 @@ If you want to contribute to this project, please fork the repository and create
 4.Push your changes to your fork.
 5.Create a pull request with a description of your changes.
 
-License
+##License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+##Acknowledgments
 1.Quotes used in this project are for educational purposes.
 2.Background color generation inspired by various online resources.
-Contact
+
+## Contact
 For any questions or suggestions, please contact yesharishrsv@gmail.com.
 

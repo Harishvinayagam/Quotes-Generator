@@ -47,16 +47,23 @@ cd Fetch-GitHub-Repositories
 If you want to contribute to this project, please fork the repository and create a pull request with your changes.
 
 1.Fork the project repository.
+
 2.Create a new branch for your feature or bugfix.
+
 3.Commit your changes to the branch.
+
 4.Push your changes to your fork.
+
 5.Create a pull request with a description of your changes.
 
 ##License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ##Acknowledgments
+
 1.Quotes used in this project are for educational purposes.
+
 2.Background color generation inspired by various online resources.
 
 ## Contact

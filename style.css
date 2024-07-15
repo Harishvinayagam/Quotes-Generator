@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    flex-direction: column;
+    background-color: #f0f0f0;
+    margin: 0;
+}
+h1 {
+    margin-bottom: 20px;
+    font-size: 2rem;
+    text-align: center;
+}
+#content {
+    margin-top: 20px;
+    text-align: center;
+}
+.btn-custom {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    transition: background-color 0.3s ease;
+}
+.btn-custom:hover {
+    background-color: #0056b3;
+}
